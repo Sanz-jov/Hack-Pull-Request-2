@@ -1,7 +1,7 @@
 ## Hack-Pull-Request-2
 # Javier OLivares (Bravo)
 
-| Nombre  | Alias | Ubicacion |
+| Nombre  | Alias | Ubicacion | Hacks |
 | ------------- | ------------- | ------------- | ------------- |
 | Douglas Chirinos  | Alfa  | Venezuela | [URL](https://github.com/DouglasChirinos/hg-2-alfa.git) |
 | Javier Olivares | Bravo  | Venezuela | [URL](https://github.com/Sanz-jov/hg-2-bravo.git) |
